@@ -1,2 +1,0 @@
-# svelte-guide
-Begin app
